@@ -1,6 +1,4 @@
-# MCP-Job-Visa-Intelligence-Tracker
-
-# 🚀 MCP Job & Visa Intelligence Tracker
+# MCP Job & Visa Intelligence Tracker
 
 > An MCP-powered platform that automatically discovers job opportunities, verifies visa-related information, evaluates job quality, and maintains a continuously updated job tracking dashboard.
 
